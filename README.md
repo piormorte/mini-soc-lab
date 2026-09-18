@@ -253,4 +253,4 @@ Não adicione credenciais, segredos ou telemetria real ao repositório.
 
 **piormorte** — estudante de cibersegurança com foco em **Blue Team, SOC, redes, Linux e desenvolvimento seguro**.
 
-[GitHub](https://github.com/piormorte) · [Studies](https://github.com/piormorte/studies) · [TryHackMe](https://tryhackme.com/p/.hotplug1n)
+[GitHub](https://github.com/piormorte) · [Studies](https://github.com/piormorte/studies) · [TryHackMe](https://tryhackme.com/p/piormorte)
