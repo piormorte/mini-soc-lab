@@ -3,7 +3,7 @@
 > Laboratório defensivo de cibersegurança desenvolvido em Python para simular um pequeno fluxo de SOC: **geração de telemetria → coleta → detecção → triagem → investigação**.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Blue%20Team-0A66C2?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/hotplug1n)
+[![Security](https://img.shields.io/badge/Security-Blue%20Team-0A66C2?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/piormorte)
 [![Flask](https://img.shields.io/badge/Flask-Web%20Dashboard-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ## 📌 Sobre o projeto
@@ -162,7 +162,7 @@ Não é necessário banco de dados ou serviço externo para executar o laborató
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone https://github.com/hotplug1n/mini-soc-lab.git
+git clone https://github.com/piormorte/mini-soc-lab.git
 cd mini-soc-lab
 ```
 
@@ -251,6 +251,6 @@ Não adicione credenciais, segredos ou telemetria real ao repositório.
 
 ## 👤 Autor
 
-**hotplug1n** — estudante de cibersegurança com foco em **Blue Team, SOC, redes, Linux e desenvolvimento seguro**.
+**piormorte** — estudante de cibersegurança com foco em **Blue Team, SOC, redes, Linux e desenvolvimento seguro**.
 
-[GitHub](https://github.com/hotplug1n) · [Studies](https://github.com/hotplug1n/studies) · [TryHackMe](https://tryhackme.com/p/.hotplug1n)
+[GitHub](https://github.com/piormorte) · [Studies](https://github.com/piormorte/studies) · [TryHackMe](https://tryhackme.com/p/.piormorte)
